@@ -1,0 +1,10 @@
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\bin\Debug\Login_Marksheet_Display.exe
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.Form1.resources
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.Properties.Resources.resources
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.csproj.GenerateResource.Cache
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.exe
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.pdb
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\bin\Debug\Login_Marksheet_Display.pdb
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.csprojResolveAssemblyReference.cache
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.Form2.resources
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Login_Marksheet_Display\Login_Marksheet_Display\obj\x86\Debug\Login_Marksheet_Display.Form3.resources
